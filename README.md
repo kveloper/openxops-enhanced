@@ -1,6 +1,8 @@
 # openxops-enhanced
 An openGL based enhanced openxops source code.
 
+- Latest version: en01 (October 2026)
+
 [OpenXOPS official website](https://openxops.net/)
 
 OpenXOPS is New BSD License. Copyright of the project is in the \[-_-;\](mikan).
