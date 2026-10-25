@@ -1,0 +1,10 @@
+prefix=C:/Users/USER/Documents/Codex/x2game/lib/modern
+exec_prefix=C:/Users/USER/Documents/Codex/x2game/lib/modern
+libdir=C:/Users/USER/Documents/Codex/x2game/lib/modern/lib
+includedir=C:/Users/USER/Documents/Codex/x2game/lib/modern/include
+
+Name: libjpeg
+Description: A SIMD-accelerated JPEG codec that provides the libjpeg API
+Version: 3.2.0
+Libs: -L${libdir} -ljpeg
+Cflags: -I${includedir}
