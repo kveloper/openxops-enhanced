@@ -17,7 +17,7 @@ OpenXOPS is New BSD License. Copyright of the project is in the \[-_-;\](mikan).
 
 - Fixed fullscreen mode bug
 
-- unlimited FPS
+- Unlimited FPS
 
 - In-game timer
 
