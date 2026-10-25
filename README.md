@@ -15,6 +15,8 @@ OpenXOPS is New BSD License. Copyright of the project is in the \[-_-;\](mikan).
 
 ## Added Features
 
+- Translated annotations (Japanese -> English)
+
 - Fixed fullscreen mode bug
 
 - Unlimited FPS
