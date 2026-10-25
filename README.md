@@ -1,5 +1,5 @@
 # openxops-enhanced
-An openGL based enhanced openxops source code.
+An openGL based enhanced OpenXOPS source code.
 
 - Latest version: en01 (October 2026)
 
